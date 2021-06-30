@@ -1,0 +1,9 @@
+apiVersion: v1
+entries:
+  scribe:
+  - annotations:
+    type: application
+    urls:
+    - https://github.com/shashankshegde/helmchart/itm-1.2.tgz
+    version: 1.2
+generated: "2021-05-26T14:59:11.656550034-04:00"
