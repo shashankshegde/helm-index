@@ -5,7 +5,7 @@ entries:
     appVersion: v1.1.1
     created: "2021-06-25T10:35:53.913350712Z"
     description: The Alertmanager handles alerts sent by client applications such
-    name: wnr-itm
+    name: wireless-ready-itm
     type: application
     urls:
     - https://raw.githubusercontent.com/shashankshegde/helm-index/main/itm-1.2.tgz
