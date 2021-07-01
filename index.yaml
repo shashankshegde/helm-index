@@ -1,7 +1,10 @@
 apiVersion: v1
 entries:
-  scribe:
-  - annotations:
+  wnr-itm:
+  - apiVersion: v1
+    created: "2021-06-25T10:35:53.913350712Z"
+    description: The Alertmanager handles alerts sent by client applications such
+    name: wnr-itm
     type: application
     urls:
     - https://github.com/shashankshegde/helmchart/itm-1.2.tgz
